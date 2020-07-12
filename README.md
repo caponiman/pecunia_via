@@ -9,3 +9,5 @@ It is exclusively written in python at the moment and utilizes the FinnHub API.
 You need the FinnHub API installed to use this software.
 
 Currently, it retrieves basic stock price information is an easily readable format through your computer's terminal.
+
+It is IMPORTANT that before you run this program that you put a file named "api_key.txt" in the folder with the program's files with your FinnHub API key or it will not work.
