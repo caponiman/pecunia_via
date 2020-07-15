@@ -8,3 +8,5 @@ This software is a financial analysis tool for those interested in corporate sto
 Currently, it retrieves basic stock price information in an easily readable format through your computer's terminal.
 
 It is IMPORTANT that before you run this program that you put a file named "api_key.txt" in the folder with the program's files with your FinnHub API key or it will not work.
+
+Some files will be blank because I haven't had an opportunity to write them yet. They will be completed in the future.
